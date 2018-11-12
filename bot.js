@@ -5,7 +5,6 @@ client.on('ready', () => {
   console.log(Logged in as ${client.user.tag}!);
 });
 
-
 client.on('ready', async() => {
 var server = "511551770657292299"; // ايدي السررفر
 var channel = "511551770657292301";//ايدي الروم
@@ -14,4 +13,4 @@ var channel = "511551770657292301";//ايدي الروم
     },305);
 })
 
-client.login("NTExNTEwNTM1NDY5MjY5MDA0.DssgSA.21ktlrxOCYNJoNs6e6r0PHwTCoI");
+client.login("BOT_TOKEN");
